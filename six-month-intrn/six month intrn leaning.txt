@@ -1,6 +1,7 @@
 intern start 18-03-2023
 learning step by step List======
 1.oop php 
+3.GitHub
 2.composer and psr-4
 3.oop-crud operation 
 4.ajax
@@ -8,3 +9,4 @@ learning step by step List======
 6.Database designe 
 7.Query
 8.solid principles(18-06-2023)
+9.laravel(01-08-2023)
