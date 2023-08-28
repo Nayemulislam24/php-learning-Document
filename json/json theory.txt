@@ -1,0 +1,23 @@
+JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write.
+It is easy for machines to parse and generate.
+JSON stands for JavaScript Object Notation
+
+JSON is a text format for storing and transporting data
+
+JSON is "self-describing" and easy to understand
+
+What is JSON?
+JSON stands for JavaScript Object Notation
+JSON is a lightweight data-interchange format
+JSON is plain text written in JavaScript object notation
+JSON is used to send data between computers
+JSON is language independent *
+
+object vs json 
+object
+জাভাস্ক্রিপ্ট অবজেক্ট হল একটি নন-প্রিমিটিভ ডেটা-টাইপ যা আপনাকে একাধিক ডেটা সংগ্রহ করতে দেয়।
+object এ কী এর কোটেশন না দিলেউ হয় ।
+
+
+json  এ কী এর কোটেশন  দিতেই  হয় ।
+

@@ -1,0 +1,42 @@
+{
+    "students": [
+        {
+            "name" : "Janntun Nayem",
+            "Middle-name" : null,
+            "age" : 56,
+            "cgpa" : 3.45,
+            "isRegistared" : true,
+            "languages" : ["English","Bangli"],
+            "firends" :   [
+                {
+                    "name" : "Amir",
+                    "age" : 25
+                },
+                {
+                    "name" : "Asad",
+                    "age" : 26
+                
+                }
+            ]
+        },
+        {
+            "name" : "Nayem",
+            "Middle-name" : null,
+            "age" : 56,
+            "cgpa" : 3.45,
+            "isRegistared" : true,
+            "languages" : ["English","Bangli"],
+            "firends" :   [
+                {
+                    "name" : "Amir",
+                    "age" : 25
+                },
+                {
+                    "name" : "Asad",
+                    "age" : 26
+                
+                }
+            ]
+        }
+    ]
+}
